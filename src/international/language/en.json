@@ -1,0 +1,40 @@
+{
+  "language": {
+    "zh": "Chinese",
+    "en": "English"
+  },
+  "common": {
+    "enter": "please enter",
+    "select": "please choose",
+    "define": "determine",
+    "cancel": "cancel"
+  },
+  "login": {
+    "title": "system login",
+    "password": "password",
+    "loginOn": "log in",
+    "passwordRule_length": "The length is between 3 and 5 characters",
+    "account": "account"
+  },
+  "systemFunction": {
+    "name": "System functions",
+    "functionMenu": "Function catalog",
+    "form": {
+      "liName": "function name",
+      "liDataName": "name",
+      "parentGuid": "Superior",
+      "liHref": "address",
+      "orderNum": "queue number",
+      "liIcon": "icon",
+      "isChild": "Child node",
+      "isEnable": "effective",
+      "remark": "Remarks"
+    }
+  },
+  "navbar": {
+    "logout": "sign out"
+  },
+  "routerMenuArr": {
+    "console": "Console"
+  }
+}
